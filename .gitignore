@@ -2,9 +2,9 @@
 node_modules/
 
 # VuePress directories
-.vuepress/dist/
-.vuepress/.temp/
-.vuepress/.cache/
+src/.vuepress/dist
+src/.vuepress/.temp
+src/.vuepress/.cache
 
 # Log files
 npm-debug.log*
