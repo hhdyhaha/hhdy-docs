@@ -5,6 +5,7 @@ export default defineConfig({
   title: "hhdy-docs",
   description: "docs",
   base: '/hhdy-docs/',
+  head: [['link', { rel: 'icon', href: '/hhdy-docs/logo.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
