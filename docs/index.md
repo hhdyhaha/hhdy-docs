@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "小项目们！"
 #  text: "小项目们！"
-  tagline: 点击查看！
+  tagline: 遇事不决，可问春风！
   image:
     src: /logo.png
     alt: hhdy
@@ -21,10 +21,12 @@ hero:
 #      link: /api-examples
 
 features:
-  - title: 面试题！
+  - icon: 📖
+    title: 面试题！
     details: React制作的面试题网站，可ai问答！
     link: https://hhdyhaha.github.io/react-interview-questions/
-  - title: 去除注释！（待完善）
+  - icon: 👀
+    title: 去除注释！（待完善）
     details: React结合通义千问api去除注释！
     link: https://hhdyhaha.github.io/annotation-optimize/
 ---
