@@ -1,29 +1,8 @@
-# Node modules
-node_modules/
-
-# VuePress directories
-src/.vuepress/dist
-src/.vuepress/.temp
-src/.vuepress/.cache
-
-# Log files
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Environment files
-.env
-.env.local
-.env.*.local
-
-# MacOS specific files
-.DS_Store
-
-# Editor directories and files
-.vscode/
-.idea/
-*.sublime-project
-*.sublime-workspace
-
-# Other
-*.log
+docs/.vitepress/dist
+docs/.vitepress/cache
+node_modules
+*.xml
+!/example.xml
+*.mts
+*.iml
+temp/
