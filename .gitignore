@@ -3,6 +3,5 @@ docs/.vitepress/cache
 node_modules
 *.xml
 !/example.xml
-*.mts
 *.iml
 temp/
