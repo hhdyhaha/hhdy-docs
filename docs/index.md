@@ -24,10 +24,10 @@ features:
   - icon: 📖
     title: 面试题！
     details: React制作的面试题网站，可ai问答！
-    link: https://hhdyhaha.github.io/react-interview-questions/
+    link: http://123.56.15.95:81/
   - icon: 👀
     title: 去除注释！（待完善）
     details: React结合通义千问api去除注释！
-    link: https://hhdyhaha.github.io/annotation-optimize/
+    link: http://123.56.15.95:82/
 ---
 
