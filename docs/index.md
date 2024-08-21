@@ -21,6 +21,10 @@ hero:
 #      link: /api-examples
 
 features:
+  - icon: 🌰
+    title: 需求demos！
+    details: 日常的需求demo
+    
   - icon: 📖
     title: 面试题！
     details: React制作的面试题网站，可ai问答！
