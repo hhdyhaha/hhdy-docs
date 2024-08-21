@@ -23,7 +23,8 @@ hero:
 features:
   - icon: 🌰
     title: 需求demos！
-    details: 日常的需求demo
+    details: 日常的需求demo！
+    link: https://hhdyhaha.github.io/demand-demos/
     
   - icon: 📖
     title: 面试题！
