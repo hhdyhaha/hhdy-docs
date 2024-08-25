@@ -20,12 +20,7 @@ hero:
 #      text: GitHub
 #      link: /api-examples
 
-features:
-  - icon: 🌰
-    title: 需求demos！
-    details: 日常的需求demo！
-    link: https://hhdyhaha.github.io/demand-demos/
-    
+features:    
   - icon: 📖
     title: 面试题！
     details: React制作的面试题网站，可ai问答！
@@ -34,5 +29,9 @@ features:
     title: 去除注释！
     details: React结合通义千问api去除注释！
     link: http://123.56.15.95:82/
+  - icon: 🌰
+    title: 需求demos！
+    details: 日常的需求demo！
+    link: https://hhdyhaha.github.io/demand-demos/
 ---
 
