@@ -10,9 +10,9 @@ hero:
     src: /logo.png
     alt: hhdy
   actions:
-#    - theme: brand
-#      text: Markdown Examples
-#      link: /markdown-examples
+    - theme: brand
+      text: GitHub！
+      link: https://github.com/hhdyhaha
 #    - theme: alt
 #      text: API Examples
 #      link: /api-examples
